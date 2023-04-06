@@ -18,7 +18,7 @@ export const Features = (props) => {
             : 'Loading...'}
         </div>
         <div className='row'>
-          <a href="https://github.com/monarchinitiative.org/ontogpt">github.com/monarchinitiative.org/ontogpt</a>  
+          <a href="https://github.com/monarch-initiative/ontogpt">github.com/monarch-initiative/ontogpt</a>  
         </div>
       </div>
     </div>

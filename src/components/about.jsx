@@ -11,7 +11,7 @@ export const About = (props) => {
             <div className='about-text'>
               <h2>About</h2>
               <p>{props.data ? props.data.paragraph : 'loading...'}</p>
-              Find out more on our GitHub repo: <a href="https://github.com/monarchinitiative.org/ontogpt">github.com/monarchinitiative.org/ontogpt</a>  
+              Find out more on our GitHub repo: <a href="https://github.com/monarch-initiative/ontogpt">github.com/monarch-initiative/ontogpt</a>  
               <h3>Why OntoGPT?</h3>
               <div className='list-style'>
                 <div className='col-lg-6 col-sm-6 col-xs-12'>
