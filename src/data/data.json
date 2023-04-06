@@ -1,0 +1,39 @@
+{
+    "Header": {
+
+        "title": "OntoGPT",
+        "paragraph": "AI plus Ontologies and Knowledge Bases!"
+
+    },
+    "About": {
+        "paragraph": "OntoGPT is a suite of tools designed for working with Ontologies, Knowledge Bases, and Large Language Models.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "SPIRES",
+            "text": "Structured Prompt Interrogation and Recursive Extraction of Semantics"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "HALO",
+            "text": "HAllucinating Latent Ontologies."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "OWL",
+            "text": "Generate ontologies via LinkML-OWL."
+        }
+    ]
+}
